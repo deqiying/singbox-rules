@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "datastory.com.cn",
+        "datatub.com",
+        "ds-int.cn"
+      ],
+      "domain_suffix": [
+        "datastory.com.cn",
+        "datatub.com",
+        "ds-int.cn"
+      ],
+      "domain_keyword": [
+        "wiki.ds-int",
+        "datastory",
+        "ds-int"
+      ]
+    }
+  ]
+}
