@@ -5,6 +5,12 @@
       "domain": [
         "e13252.dscg.akamaiedge.net",
         "h-netflix.online-metrix.net",
+        "android.prod.cloud.netflix.com",
+        "android-appboot.netflix.com",
+        "web.prod.cloud.netflix.com",
+        "ios.ngp.prod.cloud.netflix.com",
+        "ios.prod.cloud.netflix.com",
+        "appboot.netflix.com",
         "netflix.com.edgesuite.net"
       ],
       "domain_suffix": [
@@ -37,6 +43,12 @@
         "nflxso.net",
         "nflxvideo.net",
         "onetrust.com",
+        "android.prod.cloud.netflix.com",
+        "android-appboot.netflix.com",
+        "web.prod.cloud.netflix.com",
+        "ios.ngp.prod.cloud.netflix.com",
+        "ios.prod.cloud.netflix.com",
+        "appboot.netflix.com",
         "us-west-2.amazonaws.com"
       ],
       "domain_keyword": [
