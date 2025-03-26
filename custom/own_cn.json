@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "gov.cn",
+        "hnzkclouds.com",
+        "ietheivaicai.com",
+        "sealaly.net",
+        "todesk.com",
+        "xiaomixiaoai.com"
+      ],
+      "domain_suffix": [
+        "gov.cn",
+        "hnzkclouds.com",
+        "ietheivaicai.com",
+        "sealaly.net",
+        "todesk.com",
+        "xiaomixiaoai.com"
+      ],
+      "domain_keyword": [
+        "hnzkclouds",
+        "ietheivaicai",
+        "xiaomixiaoai"
+      ]
+    }
+  ]
+}
