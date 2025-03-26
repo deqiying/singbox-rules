@@ -3,17 +3,26 @@
   "rules": [
     {
       "domain": [
+        "alibabachengdun.com",
+        "aocde.com",
+        "dcloudstc.com",
+        "dutils.com",
         "gov.cn",
         "hnzkclouds.com",
+        "htool.com",
         "ietheivaicai.com",
+        "imtmp.net",
         "mijia.com",
         "mijia.tech",
         "sealaly.net",
         "tec73.com",
         "todesk.com",
+        "weixin.com",
         "xiaomixiaoai.com"
       ],
       "domain_suffix": [
+        "aocde.com",
+        "dcloudstc.com",
         "gov.cn",
         "hnzkclouds.com",
         "ietheivaicai.com",
@@ -22,6 +31,7 @@
         "sealaly.net",
         "tec73.com",
         "todesk.com",
+        "weixin.com",
         "xiaomixiaoai.com"
       ],
       "domain_keyword": [
