@@ -28,7 +28,6 @@
         "steamstatic.com",
         "akamaihd.net",
         "akamaized.net",
-        "gov.cn",
         "asus.com",
         "cocos.com",
         "audiences.me",
@@ -70,7 +69,6 @@
         "agefans",
         "acl4.ssr",
         "announce",
-        "smtp",
         "torrent"
       ]
     }
