@@ -163,6 +163,9 @@
         "hcompany",
         "groq",
         "other.domain.separator"
+      ],
+      "ip_cidr": [
+        "160.79.104.0/23"
       ]
     }
   ]
