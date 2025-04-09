@@ -3,9 +3,7 @@
   "rules": [
     {
       "domain": [
-        "services.googleapis.cn",
-        "v2ex.com",
-        "xn--ngstr-lra8j.com"
+        "v2ex.com"
       ],
       "domain_suffix": [
         "abetterinternet.org",
@@ -21,6 +19,7 @@
         "jsdelivr.net",
         "keygen.sh",
         "linux.do",
+        "mapbox.com",
         "mvnrepository.com",
         "mux.com",
         "nextdns.io",
@@ -33,10 +32,9 @@
         "ptlgs.gs",
         "ptlgs.org",
         "qbittorrent.org",
-        "redd.it",
-        "reddit.com",
         "simplelogin.io",
         "split.io",
+        "stripe.network",
         "termius.com",
         "twitter.com",
         "v2ex.co",
