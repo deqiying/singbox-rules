@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "reddit.com"
+      ],
+      "domain_suffix": [
+        "redd.it",
+        "redditlist.com",
+        "redditmedia.com",
+        "redditstatic.com",
+        "reddit.com"
+      ],
+      "domain_keyword": [
+        "reddit.com"
+      ]
+    }
+  ]
+}
