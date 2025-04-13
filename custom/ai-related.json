@@ -3,10 +3,6 @@
   "rules": [
     {
       "domain": [
-        "manus.im.domain.separator",
-        "manuscdn.com",
-        "manus.im",
-        "manus.im.domain.separator",
         "open.ai.domain.separator",
         "browser-intake-datadoghq.com",
         "chat.openai.com.cdn.cloudflare.net",
@@ -60,6 +56,10 @@
         "copilot.ai.domain.separator"
       ],
       "domain_suffix": [
+        "manus.im.domain.separator",
+        "manuscdn.com",
+        "manus.im",
+        "manus.im.domain.separator",
         "openai.com.domain.separator",
         "ai.com",
         "algolia.net",
