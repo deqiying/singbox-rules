@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 3,
   "rules": [
     {
       "domain": [
@@ -628,6 +628,7 @@
         "bx1k.com",
         "byodonline.com",
         "bystack.com",
+        "bytecdntp.com",
         "byted-static.com",
         "byted.org",
         "bytedance.com",

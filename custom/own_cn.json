@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 3,
   "rules": [
     {
       "domain": [
@@ -25,6 +25,7 @@
         "amazonaws.cn",
         "amazon.cn",
         "aocde.com",
+        "bytecdntp.com",
         "bytemastatic.com",
         "dcloudstc.com",
         "gov.cn",
