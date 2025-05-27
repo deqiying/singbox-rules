@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 3,
   "rules": [
     {
       "domain": [
@@ -37,11 +37,14 @@
         "mapbox.com",
         "media-imdb.com",
         "micropixels.software",
+        "mozilla.org",
+        "mozilla.net",
         "mvnrepository.com",
         "mux.com",
         "netcup.com",
         "nezha.wiki",
         "nextdns.io",
+        "nginx.org",
         "nodeloc.com",
         "nodeseek.com",
         "nube.sh",
