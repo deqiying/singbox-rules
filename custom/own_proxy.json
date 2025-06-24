@@ -52,8 +52,9 @@
         "nube.sh",
         "nvidiagrid.net",
         "nvidia.com",
-        "open-vsx.org",
         "ocsp-certum.com",
+        "open-vsx.org",
+        "ovhcloud.com",
         "ping0.cc",
         "poe.com",
         "posthog.com",
@@ -86,7 +87,8 @@
         "wordpress.org",
         "wordpress.tv",
         "wpvip.com",
-        "w.org"
+        "w.org",
+        "zopim.com"
       ],
       "domain_keyword": [
         "musical.ly"
