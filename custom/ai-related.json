@@ -3,6 +3,9 @@
   "rules": [
     {
       "domain": [
+        "augmentcode.com.separator",
+        "augmentcode.com",
+        "augmentcode.com.separator",
         "open.ai.domain.separator",
         "browser-intake-datadoghq.com",
         "chat.openai.com.cdn.cloudflare.net",
@@ -56,6 +59,9 @@
         "copilot.ai.domain.separator"
       ],
       "domain_suffix": [
+        "augmentcode.com.domain.separator",
+        "augmentcode.com",
+        "augmentcode.com.domain.separator",
         "manus.im.domain.separator",
         "manuscdn.com",
         "manus.im",
