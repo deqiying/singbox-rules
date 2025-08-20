@@ -1,7 +1,10 @@
 {
-  "version": 1,
+  "version": 3,
   "rules": [
     {
+      "domain": [
+        "api-access.pangolin-sdk-toutiao1.com"
+      ],
       "domain_keyword": [
         "admarvel",
         "admaster",
