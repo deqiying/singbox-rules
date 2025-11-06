@@ -1,8 +1,10 @@
 {
-  "version": 3,
+  "version": 2,
   "rules": [
     {
       "domain": [
+        "steamcommunity-a.akamaihd.net.edgesuite.net",
+        "a4e8s8k3.map2.ssl.hwcdn.net",
         "f3b7q2p3.ssl.hwcdn.net",
         "steambroadcast.akamaized.net",
         "steamcdn-a.akamaihd.net",
@@ -15,21 +17,25 @@
         "steamusercontent-a.akamaihd.net",
         "steamuserimages-a.akamaihd.net",
         "steamvideo-a.akamaihd.net",
+        "steamcloudsweden.blob.core.windows.net",
+        "alibaba.cdn.steampipe.steamcontent.com",
+        "lv.queniujq.cn",
         "xz.pphimalayanrt.com"
       ],
       "domain_suffix": [
-        "underlords.com",
-        "steam-chat.com",
-        "playartifact.com",
-        "steam-api.com",
-        "valvesoftware.com",
-        "steamcommunity.com",
-        "steamdeck.com",
-        "steamgames.com",
-        "steampowered.com",
         "steamstatic.com",
         "steam.tv",
+        "underlords.com",
+        "steam-api.com",
+        "steam-chat.com",
+        "steamcommunity.com",
+        "steamcontent.com",
+        "steamdeck.com",
+        "valvesoftware.com",
+        "steampowered.com",
+        "playartifact.com",
         "s.team",
+        "steamgames.com",
         "steam.apac.qtlglb.com",
         "steam.eca.qtlglb.com",
         "steam.naeu.qtlglb.com",
@@ -39,21 +45,20 @@
         "edge.steam-dns.top.comcast.net",
         "steam.cdn.orcon.net.nz",
         "steam.cdn.slingshot.co.nz",
-        "steamcontent.com",
         "steamserver.net",
         "steamusercontent.com",
         "csgo.wmsj.cn",
         "dota2.wmsj.cn",
         "wmsjsteam.com",
+        "client-update.queniuqe.com",
         "dl.steam.clngaa.com",
-        "dl.steam.ksyna.com",
         "st.dl.bscstorage.net",
         "st.dl.eccdnx.com",
         "st.dl.pinyuncloud.com",
-        "steampipe.steamcontent.tnkjmec.com",
         "steampowered.com.8686c.com",
         "steamstatic.com.8686c.com",
-        "steamchina.com"
+        "steamchina.com",
+        "gstore.val.manlaxy.com"
       ]
     }
   ]

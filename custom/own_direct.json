@@ -3,13 +3,9 @@
   "rules": [
     {
       "domain": [
-        "cm.steampowered.com",
-        "cdn.steampowered.com",
         "cdn-lfs.hf.co",
-        "deqiying.com",
         "www.msftncsi.com",
         "dns.msftncsi.com",
-        "fastly.cdn.steampipe.steamcontent.com",
         "ol.epicgames.com",
         "yacd.metacubex.one"
       ],
@@ -66,12 +62,6 @@
         "serv00.com",
         "sikiedu.com",
         "springsunday.net",
-        "steamchina.com",
-        "steamcontent.com",
-        "steamgames.com",
-        "steamserver.net",
-        "steamstatic.com",
-        "steamusercontent.com",
         "tjupt.org",
         "todesk.com",
         "totheglory.im",
