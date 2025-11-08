@@ -56,7 +56,10 @@
         "talkatone.com",
         "tktn.at",
         "tktn.be",
-        "talkatone.domain.separator"
+        "talkatone.domain.separator",
+        "ssl.domain.separator",
+        "digicert.com",
+        "ssl.domain.separator"
       ],
       "domain_keyword": [
         "talkatone.domain.separator",
