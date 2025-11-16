@@ -42,8 +42,7 @@
         "sydney.bing.com",
         "www.bingapis.com",
         "copilot.ai.domain.separator"
-      ]
-    ,
+      ],
       "domain_suffix": [
         "augmentcode.com.domain.separator",
         "augmentcode.com",
@@ -68,6 +67,8 @@
         "gemini.com.domain.separator",
         "ai.google.dev",
         "aistudio.google.com",
+        "www.googletagmanager.com",
+        "ogs.google.com",
         "alkalimakersuite-pa.clients6.google.com",
         "bard.google.com",
         "deepmind.com",
@@ -120,8 +121,7 @@
         "poe.com",
         "sider.ai",
         "other.ai.domain.separator"
-      ]
-    ,
+      ],
       "domain_keyword": [
         "openai.domain.separator",
         "openai",
